@@ -1,0 +1,7 @@
+.login-display {
+  position: absolute;
+  width: 30%;
+  height: 20%;
+  border: 1px solid black;
+  z-index: 1;
+}

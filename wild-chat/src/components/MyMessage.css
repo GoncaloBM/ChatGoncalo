@@ -1,0 +1,7 @@
+.my-message-line {
+  display: flex;
+  width: 80%;
+  height: 20%;
+  border: 1px solid black;
+  margin-top: 10px;
+}

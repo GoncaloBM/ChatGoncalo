@@ -1,0 +1,26 @@
+.display {
+  width: 80%;
+  height: 70vh;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.messages {
+  width: 100%;
+}
+
+.message-line {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  border-top: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.user {
+  font-weight: bold;
+}
